@@ -1,0 +1,14 @@
+{
+  "name": "justlegit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "mehdi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+   "scripts" : {
+     "start": "node index.js"
+   }
+}
